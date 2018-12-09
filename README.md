@@ -2,6 +2,8 @@
 
 Browser stopwatch made with React.js
 
+![alt text](https://snag.gy/Te1Mnd.jpg)
+
 ## Available Scripts
 
 In the project directory, you can run:
